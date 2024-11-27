@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    # Exemplo de Armazenamento Sequencial: Lista em Python
+
+# Criando uma lista sequencial
+dados = [10, 20, 30, 40, 50]
+
+# Acesso sequencial aos dados
+for dado in dados:
+    print(dado)
+Vantagens:
+</body>
+</html>
